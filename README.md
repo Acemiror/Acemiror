@@ -63,7 +63,7 @@ $ pkg install git
 
 $ rm -rf cr4ck
 
-$ git clone https://github.com/Aceemiror/Aceemiror.git/cr4ck
+$ git clone https://github.com/Aceemiror.git/cr4ck
 
 $ cd cr4ck
 
